@@ -63,4 +63,3 @@ python eval.py
 ```
 
 You can get the PSNR and SSIM of the SR images.
-
